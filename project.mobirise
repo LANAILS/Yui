@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -378,9 +378,10 @@
         {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "311 E. Valley Blvd, #107\nSan Gabriel, CA 91776",
+              "placeId": "EjIxMDcsIDMxMSBFIFZhbGxleSBCbHZkLCBTYW4gR2FicmllbCwgQ0EgOTE3NzYsIFVTQSIfGh0KFgoUChIJy7uJE7nawoARufjCeGPbbbMSAzEwNw",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
@@ -423,7 +424,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>WeChat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
