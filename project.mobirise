@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -192,7 +192,21 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-2h"
+          "_anchor": "pricing-table1-2h",
+          "_styles": {
+            ".mbr-plan__details UL": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_params": {
@@ -253,14 +267,26 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/timg-6-925x987.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Gift Card",
+                "contentAlign": "left",
+                "text": "<b>Buy $150, Get $10 Bonus Rewards;<br>Buy $260, Get $30 Bonus Rewards;<br>Buy $500, Get $80Bonus Rewards;<br>Buy $800, Get $150Bonus Rewards.</b><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "New Member Promotion",
+                "title": "Limited Edition",
                 "contentAlign": "left",
-                "text": "Buy $150 Gift Card, Get $10 Bonus Rewards;<br>Buy $260ift Card, Get $30 Bonus Rewards;<br>Buy $500 Gift Card, Get $80Bonus Rewards;<br>Buy $800 Gift Card, Get $150Bonus Rewards.<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "text": "Summer Limited Edition at Special Sale Price <br>Come to the Store for Details!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
               }
             ]
           },
@@ -285,7 +311,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "slider-2f"
+          "_anchor": "slider-2i"
         },
         {
           "_params": {
@@ -352,10 +378,9 @@
         {
           "_params": {
             "googleMap": {
-              "address": "311 E. Valley Blvd, #107\nSan Gabriel, CA 91776",
-              "placeId": "EjIxMDcsIDMxMSBFIFZhbGxleSBCbHZkLCBTYW4gR2FicmllbCwgQ0EgOTE3NzYsIFVTQSIfGh0KFgoUChIJy7uJE7nawoARufjCeGPbbbMSAzEwNw",
-              "state": "ok",
-              "stateDetails": ""
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
             }
           },
           "_tags": [
@@ -398,7 +423,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>WeChat ID: LA_ynails<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"

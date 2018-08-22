@@ -1,4 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+
 
 
 
@@ -30,13 +34,22 @@
   font-size: 36px;
   text-align: center;
 }
-#slider-2f H1 {
+#pricing-table1-2h .mbr-plan__details UL {
+  font-family: 'Slabo 27px', serif;
+}
+#pricing-table1-2h DIV {
+  font-family: 'Slabo 27px', serif;
+}
+#pricing-table1-2h H3 {
+  font-family: 'Slabo 27px', serif;
+}
+#slider-2i H1 {
   font-family: 'Indie Flower', cursive;
   font-size: 72px;
   color: #000000;
   text-align: left;
 }
-#slider-2f P {
+#slider-2i P {
   color: #000000;
   font-family: 'Indie Flower', cursive;
   font-size: 25px;
