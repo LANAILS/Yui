@@ -623,7 +623,7 @@
             "fourthType": "orange",
             "fifthType": "hidden",
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
@@ -677,7 +677,7 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "noGutter": false,
             "showText": false,
