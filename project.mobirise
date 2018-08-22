@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -823,7 +823,7 @@
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Reservation Time"
+                "customTitle": "Email"
               },
               "phone": {
                 "visible": true,
@@ -832,7 +832,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Reservation Time"
               }
             }
           },
