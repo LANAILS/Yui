@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -330,7 +330,7 @@
           "title": "RESERVATION",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Make!</a>",
           "form": {
-            "action": "463492325@qq.com",
+            "action": "kikixie92@gmail.com",
             "alerts": {
               "success": "Your reservation request has been received, and we will reply as soon as possible. Thank you !"
             },
@@ -341,7 +341,7 @@
                 "customTitle": "Name"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Reservation Time"
               },
@@ -352,7 +352,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Reservation Time & Service"
               }
             }
           },
