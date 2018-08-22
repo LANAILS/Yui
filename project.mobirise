@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -257,7 +257,7 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "New Member Promition",
+                "title": "New Member Promotion",
                 "contentAlign": "left",
                 "text": "Buy $150 Gift Card, Get $10 Bonus Rewards;<br>Buy $260ift Card, Get $30 Bonus Rewards;<br>Buy $500 Gift Card, Get $80Bonus Rewards;<br>Buy $800 Gift Card, Get $150Bonus Rewards.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
@@ -705,7 +705,7 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "New Member Promition",
+                "title": "New Member Promotion",
                 "contentAlign": "left",
                 "text": "Buy $150 Gift Card, Get $10 Bonus Rewards;<br>Buy $260ift Card, Get $30 Bonus Rewards;<br>Buy $500 Gift Card, Get $80Bonus Rewards;<br>Buy $800 Gift Card, Get $150Bonus Rewards.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
