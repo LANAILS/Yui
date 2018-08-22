@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -832,7 +832,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Reservation Time"
+                "customTitle": "Reservation Time & Service"
               }
             }
           },
