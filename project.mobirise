@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 75,
+    "uniqCompNum": 81,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -111,8 +111,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "Yui Nails",
-          "text": "<br>Sep 2018<br>",
+          "title": "YUI-NAILS",
+          "text": "<br>Grand Open",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -124,7 +124,7 @@
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "color": "#475577",
-              "font-size": "60px"
+              "font-size": "80px"
             },
             "P": {
               "color": "#475577",
@@ -506,7 +506,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -519,9 +519,13 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-265x436.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -533,14 +537,19 @@
               "active": true
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1i"
+          "_anchor": "contacts1-1i",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -613,9 +622,9 @@
             "thirdType": "favorite",
             "fourthType": "orange",
             "fifthType": "hidden",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "3",
-            "showButtons": true,
+            "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
             "parallax": true,
@@ -629,29 +638,29 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "A",
+          "title1": "Manicure",
           "currency1": "$",
-          "price1": "50",
-          "period1": "per month",
-          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "price1": "10",
+          "period1": "and up",
+          "list1": "<ul><li><b>Kid Manicure (Under 13) - $10</b></li><li><b>Polish Change - $10</b></li><li><b>Regular Manicure - $15</b></li><li><b>Gel Change - $20</b></li><li><b>Remove - $5 &amp; up</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAMPLE</a>",
-          "title2": "B",
+          "title2": "Pedicure",
           "currency2": "$",
-          "price2": "60",
-          "period2": "per month",
-          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAMPLE</a>",
-          "title3": "C",
+          "price2": "15",
+          "period2": "and up",
+          "list2": "<ul><li><b>Kid Pedicure (Under 13) - $15</b></li><li><b>Polish Change - $10\n</b></li><li><b>Regular Pedicure - $20</b></li><li><b>Gel Change - $20\n</b></li><li><b>Remove - $5 &amp; up</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAPLE</a>",
+          "title3": "Gel Manicure &amp; Pedicure",
           "currency3": "$",
-          "price3": "70",
-          "period3": "per month",
-          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "price3": "30",
+          "period3": "and up",
+          "list3": "<ul><li><b>Regular Colored Gle (Evian) - $30</b></li><li><b>Luxury Colored Gle (Presto) - $10\n</b></li><li><b>Colored French Gel - $5 extra / set</b></li><li><b>Gradient - $10 extra / set</b></li><li><b>Nail Extension: Nail Tip &amp; Acrylic Power - $60</b></li><li><b>Gel Extension - $70</b></li><li><b>Fill in - $50</b></li><li><b>Gel Design Set - $50 &amp; up</b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAMPLE</a>",
-          "title4": "D",
+          "title4": "Skin Care",
           "currency4": "$",
-          "price4": "80",
-          "period4": "per month",
-          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "price4": "10",
+          "period4": "and up",
+          "list4": "<ul><li><b>Regular Mask - $10</b></li><li><b>Luxury Mask - $20\n</b></li><li><b>Regular Scrub - $15</b></li><li><b>Luxury Scrub - $25</b></li><li><b>Paraffin - $10 &amp; up</b></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SAMPLE</a>",
           "title5": "EXTENDED",
           "currency5": "$",
@@ -669,36 +678,36 @@
           "_params": {
             "fullWidth": true,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "noGutter": false,
             "showText": false,
             "showBullets": true,
             "bgColor": "#cccccc",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-2-500x500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2-500x500-400x300.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1978299635-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1978299635-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2-423x388.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-423x388-338x253.jpg",
+                "image": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-430x300.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-430x300-320x240.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2022978677-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2022978677-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/4-1-342x300.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-1-342x300-273x205.jpg",
+                "image": "@PROJECT_PATH@/assets/images/331469415-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/331469415-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -788,36 +797,26 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/timg-6-925x987.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "OPEN SPECIAL",
-                "contentAlign": "right",
-                "text": "All nails 15% off.",
+                "title": "New Member Promition",
+                "contentAlign": "left",
+                "text": "Buy $150 Gift Card, Get $10 Bonus Rewards;<br>Buy $260ift Card, Get $30 Bonus Rewards;<br>Buy $500 Gift Card, Get $80Bonus Rewards;<br>Buy $800 Gift Card, Get $150Bonus Rewards.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "SPRING SPECIAL",
+                "title": "Limited Edition",
                 "contentAlign": "left",
-                "text": "Limitied Edition!",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/timg-10.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "ELITE MEMBERS",
-                "contentAlign": "left",
-                "text": "Gold / Platinum / Diamond",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Summer Limited Edition at Special Sale Price <br>Come to the Store for Details!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
               }
             ]
           },
@@ -831,15 +830,16 @@
             "H1": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "60px",
-              "color": "#3d8eb9",
+              "font-size": "72px",
+              "color": "#000000",
               "text-align": "left"
             },
             "P": {
-              "color": "#3d8eb9",
+              "color": "#000000",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
+              "font-size": "25px",
+              "text-align": "center"
             }
           }
         }
@@ -924,7 +924,7 @@
           "title": "RESERVATION",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Make!</a>",
           "form": {
-            "action": "463492325@qq.com",
+            "action": "kikixie92@gmail.com",
             "alerts": {
               "success": "Your reservation request has been received, and we will reply as soon as possible. Thank you !"
             },
@@ -982,7 +982,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 Triple YYY Corporation. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2018 Triple YYY Corporation. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -999,85 +999,64 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": "3",
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "WHAT OUR FANTASTIC CLIENTS SAY",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "",
-              "text": "好帅的指甲店！"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">好酷的网站！</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">哇，什么时候开业啊！</p>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
-            }
-          ],
+          "title": "YUI-NAILS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1g",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "",
-              "text": "好帅的指甲店！"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">好酷的网站！</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">哇，什么时候开业啊！</p>"
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-28"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "311 E. Valley Blvd, #107\nSan Gabriel, CA 91776",
+              "placeId": "EjIxMDcsIDMxMSBFIFZhbGxleSBCbHZkLCBTYW4gR2FicmllbCwgQ0EgOTE3NzYsIFVTQSIfGh0KFgoUChIJy7uJE7nawoARufjCeGPbbbMSAzEwNw",
+              "state": "ok",
+              "stateDetails": ""
             }
+          },
+          "_tags": [
+            "Theme"
           ],
-          "_styles": {
-            ".mbr-section__header": {
-              "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
-            }
-          }
+          "_name": "map2",
+          "_anchor": "map2-27"
         },
         {
           "_styles": {
@@ -1136,21 +1115,6 @@
         },
         {
           "_params": {
-            "googleMap": {
-              "address": "Alhambra",
-              "placeId": "ChIJIbZmgz3FwoARZkZyerE4-Ns",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1e"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1164,9 +1128,13 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-265x436.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1174,18 +1142,22 @@
               "name": "github",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1i"
+          "_anchor": "contacts1-1i",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
