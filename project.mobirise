@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NAILS",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -350,56 +350,12 @@
           "_anchor": "form1-1q"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "60px",
-              "color": "#000000"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "YUI-NAILS",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2g"
-        },
-        {
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "311 E. Valley Blvd, #107\nSan Gabriel, CA 91776",
+              "placeId": "EjIxMDcsIDMxMSBFIFZhbGxleSBCbHZkLCBTYW4gR2FicmllbCwgQ0EgOTE3NzYsIFVTQSIfGh0KFgoUChIJy7uJE7nawoARufjCeGPbbbMSAzEwNw",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "_tags": [
@@ -442,7 +398,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>WeChat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -985,7 +941,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>We Chat ID: LA_ynails<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kikixie92@gmail.com<br>\nPhone: +1 (626) 438 5699<br>WeChat ID: LA_ynails<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
