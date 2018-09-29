@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 91,
+    "uniqCompNum": 96,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -67,11 +67,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -79,8 +81,7 @@
               "name": "github",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -99,7 +100,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/timg-1350x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/timg-650x365.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -111,7 +112,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "YUI-NAILS",
+          "title": "YUI NAILS",
           "text": "<br>Grand Open in San Gabriel",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
@@ -123,11 +124,11 @@
             "H1": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "80px"
             },
             "P": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "36px",
@@ -219,22 +220,22 @@
             "bgColor": "#cccccc",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1978299635-1920x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1978299635-1920x1920-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1080x1080-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1920x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1920x1920-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1080x1080-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2022978677-1920x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2022978677-1920x1920-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -242,6 +243,62 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/331469415-1920x1920.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/331469415-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1080x1080-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/8-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/26-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/14-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/28-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-1920x1920-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/21-1920x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21-1920x1920-800x800.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -266,25 +323,25 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/timg-6-925x987.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-717x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Gift Card",
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "<b>Buy $150, Get $10 Bonus Rewards;<br>Buy $260, Get $30 Bonus Rewards;<br>Buy $500, Get $80Bonus Rewards;<br>Buy $800, Get $150Bonus Rewards.</b><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/timg-2-910x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Limited Edition",
                 "contentAlign": "left",
-                "text": "Summer Limited Edition at Special Sale Price <br>Come to the Store for Details!",
+                "text": "Fall Limited Edition at Special Sale Price <br>Come to the Store for Details!",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": false
               }
@@ -300,18 +357,95 @@
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "72px",
-              "color": "#000000",
-              "text-align": "left"
+              "color": "#ffffff",
+              "text-align": "right"
             },
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "25px",
               "text-align": "center"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "slider-2i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1065x1318.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Reservation By<br>Call 626-438-5699<br>Or Scan QR Code</span>&nbsp;",
+          "text": "<p>Make your reservation by</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text SPAN": {
+              "font-size": "36px"
+            }
+          },
+          "headerAlign": "center",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2j"
         },
         {
           "_params": {
@@ -330,6 +464,39 @@
         },
         {
           "_params": {
+            "token": "",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-2m"
+        },
+        {
+          "_params": {
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -343,7 +510,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-265x436.jpg",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "link": "",
@@ -357,8 +524,7 @@
               "name": "github",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
@@ -371,7 +537,8 @@
           "_anchor": "contacts1-1i",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         }
@@ -416,11 +583,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -586,11 +755,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -723,11 +894,13 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-128x128.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -761,7 +934,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-265x436.jpg",
+              "src": "@PROJECT_PATH@/assets/images/webwxgetmsgimg-1-265x265.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "link": "",
@@ -775,7 +948,8 @@
               "name": "github",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><br>311 E. Valley Blvd, #107<br>\nSan Gabriel, CA 91776",
@@ -788,7 +962,8 @@
           "_anchor": "contacts1-1i",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           }
         }

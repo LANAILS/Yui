@@ -8,6 +8,7 @@
 
 
 
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -23,11 +24,11 @@
 }
 #header1-1 H1 {
   font-family: 'Indie Flower', cursive;
-  color: #475577;
+  color: #000000;
   font-size: 80px;
 }
 #header1-1 P {
-  color: #475577;
+  color: #000000;
   font-family: 'Indie Flower', cursive;
   font-size: 36px;
   text-align: center;
@@ -44,17 +45,35 @@
 #slider-2i H1 {
   font-family: 'Indie Flower', cursive;
   font-size: 72px;
-  color: #000000;
-  text-align: left;
+  color: #ffffff;
+  text-align: right;
 }
 #slider-2i P {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Indie Flower', cursive;
   font-size: 25px;
   text-align: center;
 }
+#slider-2i B {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+#msg-box4-2j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-header__text SPAN {
+  font-size: 36px;
+}
 #contacts1-1i P {
   color: #ffffff;
+  text-align: center;
 }
 
 #menu-h .mbr-brand__name {
@@ -114,4 +133,5 @@
 }
 #contacts1-1i P {
   color: #ffffff;
+  text-align: center;
 }
