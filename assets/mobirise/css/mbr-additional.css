@@ -8,8 +8,6 @@
 
 
 
-
-
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -55,15 +53,6 @@
   font-size: 25px;
   text-align: center;
 }
-#form1-1q .mbr-header__text {
-  font-family: 'Indie Flower', cursive;
-  font-size: 36px;
-  color: #f97352;
-}
-#form1-1q .btn {
-  font-family: 'Indie Flower', cursive;
-  font-size: 16px;
-}
 #contacts1-1i P {
   color: #ffffff;
 }
@@ -108,31 +97,6 @@
   font-family: 'Indie Flower', cursive;
   font-size: 25px;
   text-align: center;
-}
-
-
-
-#menu-l .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-l.mbr-navbar--stuck .mbr-navbar__section {
-  background: #c1c1c1;
-}
-#menu-l .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-l .mbr-navbar__items a {
-  font-family: 'Indie Flower', cursive;
-  font-size: 25px;
-}
-#form1-1a .mbr-header__text {
-  font-family: 'Indie Flower', cursive;
-  font-size: 36px;
-  color: #f97352;
-}
-#form1-1a .btn {
-  font-family: 'Indie Flower', cursive;
-  font-size: 16px;
 }
 
 #menu-k .mbr-brand__name {
